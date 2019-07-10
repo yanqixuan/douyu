@@ -1,0 +1,28 @@
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+.index-header{
+  display: flex;
+  height: 70px;
+  line-height: 70px;
+  background-color: #bfbfbf;
+  color: white;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: orangered
+}
+.orangered{
+  color: orangered
+}
+.title-items{
+  display: flex;
+  margin-left: 20px;
+}
+.index-tab{
+  margin: 0 10px;
+}
