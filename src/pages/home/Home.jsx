@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import HomeSwiper from '../../components/homeSwiper/HomeSwiper'
 import HomeGroupList from '../../components/HomeGroupList/HomeGroupList'
+import './Home.css'
 
 export class Home extends Component {
   state = {
